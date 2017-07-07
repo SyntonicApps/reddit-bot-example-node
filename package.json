@@ -1,0 +1,28 @@
+{
+  "name": "reddit-bot-example-node",
+  "version": "0.0.0",
+  "description": "An example of a Reddit bot that looks at new Reddit comments",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "snoostorm": "^0.0.5",
+    "snoowrap": "^1.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-google": "^0.8.0"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyntonicApps/reddit-bot-example-node.git"
+  },
+  "author": "Andrew Brooke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyntonicApps/reddit-bot-example-node/issues"
+  },
+  "homepage": "https://github.com/SyntonicApps/reddit-bot-example-node#readme"
+}
